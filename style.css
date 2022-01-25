@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-all{
+    width: 85%;
+    height: 120vh;
+    margin: 0 auto;
+    
+}
+
+.camb{
+    height: 8%;
+}
