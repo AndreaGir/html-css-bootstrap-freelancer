@@ -4,13 +4,35 @@
     box-sizing: border-box;
 }
 
-.container-all{
-    width: 85%;
+.tutto{
+    width: 100%;
     height: 130vh;
-    margin: 0 auto;
-    
 }
 
-.camb{
-    height: 8%;
+.header-css{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(3, 3, 53);
+}
+.dentro-centrare{
+    width: 85%;
+    margin: 0 auto;
+}
+
+
+
+.start{
+    background-color: rgb(17, 202, 141);
+    width: 100%;
+    height: 450px;
+}
+.immagine{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+.scritte-dentro-main{
+    width: 40%;
+    height: 35%;
+    text-align: center;
 }
